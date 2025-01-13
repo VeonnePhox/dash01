@@ -1,2 +1,6 @@
 # dash01
-creating a daily adsh
+creating a daily dash
+
+# Logs
+2025013
+- cloned git repo and working on some things
